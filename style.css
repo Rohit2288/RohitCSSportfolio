@@ -1,0 +1,14 @@
+.hero img{
+    border-radius: 50%;
+}
+
+.background-color{
+    background-color: #dcdcdc;
+}
+
+ .display-4{
+    display: flex;
+    justify-content: center;
+    margin-top: 30;
+}
+
